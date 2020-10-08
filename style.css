@@ -37,6 +37,7 @@ img{
    font-size:14px;
    font-style: bold;
 }
-.div{
-   margin:0 auto;
+div{
+   margin-left:auto;
+   margin-right:auto;
 }
