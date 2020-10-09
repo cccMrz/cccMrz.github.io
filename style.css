@@ -55,3 +55,9 @@ th
   {
   height:50px;
   }
+table
+{
+   table-layout: fixed;
+   word-break: break-all;
+   word-wrap: break-word;
+}
