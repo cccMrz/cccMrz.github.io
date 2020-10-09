@@ -47,3 +47,12 @@ div{
    font-size:18px;
    font-style: bold;
 }
+table
+  {
+  width:60%;
+  }
+
+th
+  {
+  height:50px;
+  }
