@@ -18,7 +18,8 @@ h1{
    font-style:italic;
 }
 body{
-background-color:#D8D8D8
+background-image:url("bgpic.jpg");
+}
 }
 #para3{
    color:#8B0012;
